@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1655411055 source:c:\users\corei7\onedrive - universidad mariano gálvez\escritorio\ef\p1examenfinal\prototipop1ef2022\prototipop1ef2022\src\clsentrenador.cpp
+1655414351 source:c:\users\corei7\onedrive - universidad mariano gálvez\escritorio\ef\p1examenfinal\prototipop1ef2022\prototipop1ef2022\src\clsentrenador.cpp
 	"ClsEntrenador.h"
 	<conio.h>
 	<iostream>
@@ -11,7 +11,7 @@
 	<string.h>
 	"ClsmenuMantenimientos.h"
 
-1655411055 c:\users\corei7\onedrive - universidad mariano gálvez\escritorio\ef\p1examenfinal\prototipop1ef2022\prototipop1ef2022\include\clsentrenador.h
+1655414351 c:\users\corei7\onedrive - universidad mariano gálvez\escritorio\ef\p1examenfinal\prototipop1ef2022\prototipop1ef2022\include\clsentrenador.h
 	<conio.h>
 	<iostream>
 	<fstream>
@@ -19,7 +19,7 @@
 	<iomanip>
 	<cstdlib>
 
-1655413629 source:c:\users\corei7\onedrive - universidad mariano gálvez\escritorio\ef\p1examenfinal\prototipop1ef2022\prototipop1ef2022\src\clsequipo.cpp
+1655414351 source:c:\users\corei7\onedrive - universidad mariano gálvez\escritorio\ef\p1examenfinal\prototipop1ef2022\prototipop1ef2022\src\clsequipo.cpp
 	"ClsEquipo.h"
 	<conio.h>
 	<iostream>
@@ -31,7 +31,7 @@
 	<string.h>
 	"ClsmenuMantenimientos.h"
 
-1655413531 c:\users\corei7\onedrive - universidad mariano gálvez\escritorio\ef\p1examenfinal\prototipop1ef2022\prototipop1ef2022\include\clsequipo.h
+1655414351 c:\users\corei7\onedrive - universidad mariano gálvez\escritorio\ef\p1examenfinal\prototipop1ef2022\prototipop1ef2022\include\clsequipo.h
 	<conio.h>
 	<iostream>
 	<fstream>
@@ -39,22 +39,37 @@
 	<iomanip>
 	<cstdlib>
 
-1655401209 source:c:\users\corei7\onedrive - universidad mariano gálvez\escritorio\ef\p1examenfinal\prototipop1ef2022\prototipop1ef2022\src\clspais.cpp
+1655414678 source:c:\users\corei7\onedrive - universidad mariano gálvez\escritorio\ef\p1examenfinal\prototipop1ef2022\prototipop1ef2022\src\clspais.cpp
 	"ClsPais.h"
+	<conio.h>
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	"ClsmenuMantenimientos.h"
 
-1655401209 c:\users\corei7\onedrive - universidad mariano gálvez\escritorio\ef\p1examenfinal\prototipop1ef2022\prototipop1ef2022\include\clspais.h
+1655414636 c:\users\corei7\onedrive - universidad mariano gálvez\escritorio\ef\p1examenfinal\prototipop1ef2022\prototipop1ef2022\include\clspais.h
+	<conio.h>
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<cstdlib>
 
-1655401251 source:c:\users\corei7\onedrive - universidad mariano gálvez\escritorio\ef\p1examenfinal\prototipop1ef2022\prototipop1ef2022\src\clstipojugador.cpp
+1655414351 source:c:\users\corei7\onedrive - universidad mariano gálvez\escritorio\ef\p1examenfinal\prototipop1ef2022\prototipop1ef2022\src\clstipojugador.cpp
 	"ClsTipoJugador.h"
 
-1655401250 c:\users\corei7\onedrive - universidad mariano gálvez\escritorio\ef\p1examenfinal\prototipop1ef2022\prototipop1ef2022\include\clstipojugador.h
+1655414351 c:\users\corei7\onedrive - universidad mariano gálvez\escritorio\ef\p1examenfinal\prototipop1ef2022\prototipop1ef2022\include\clstipojugador.h
 
-1655401267 source:c:\users\corei7\onedrive - universidad mariano gálvez\escritorio\ef\p1examenfinal\prototipop1ef2022\prototipop1ef2022\src\clstipopuesto.cpp
+1655414351 source:c:\users\corei7\onedrive - universidad mariano gálvez\escritorio\ef\p1examenfinal\prototipop1ef2022\prototipop1ef2022\src\clstipopuesto.cpp
 	"ClsTipoPuesto.h"
 
-1655401267 c:\users\corei7\onedrive - universidad mariano gálvez\escritorio\ef\p1examenfinal\prototipop1ef2022\prototipop1ef2022\include\clstipopuesto.h
+1655414351 c:\users\corei7\onedrive - universidad mariano gálvez\escritorio\ef\p1examenfinal\prototipop1ef2022\prototipop1ef2022\include\clstipopuesto.h
 
-1655411194 source:c:\users\corei7\onedrive - universidad mariano gálvez\escritorio\ef\p1examenfinal\prototipop1ef2022\prototipop1ef2022\main.cpp
+1655414351 source:c:\users\corei7\onedrive - universidad mariano gálvez\escritorio\ef\p1examenfinal\prototipop1ef2022\prototipop1ef2022\main.cpp
 	<conio.h>
 	<iostream>
 	<fstream>
@@ -70,7 +85,7 @@
 	<ClsTipoPuesto.h>
 	<ClsmenuMantenimientos.h>
 
-1655413530 source:c:\users\corei7\onedrive - universidad mariano gálvez\escritorio\ef\p1examenfinal\prototipop1ef2022\prototipop1ef2022\src\clsmenumantenimientos.cpp
+1655414636 source:c:\users\corei7\onedrive - universidad mariano gálvez\escritorio\ef\p1examenfinal\prototipop1ef2022\prototipop1ef2022\src\clsmenumantenimientos.cpp
 	"ClsmenuMantenimientos.h"
 	<conio.h>
 	<iostream>
@@ -87,5 +102,5 @@
 	<ClsTipoPuesto.h>
 	<ClsmenuMantenimientos.h>
 
-1655411055 c:\users\corei7\onedrive - universidad mariano gálvez\escritorio\ef\p1examenfinal\prototipop1ef2022\prototipop1ef2022\include\clsmenumantenimientos.h
+1655414351 c:\users\corei7\onedrive - universidad mariano gálvez\escritorio\ef\p1examenfinal\prototipop1ef2022\prototipop1ef2022\include\clsmenumantenimientos.h
 
