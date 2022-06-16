@@ -14,6 +14,7 @@
 #include<ClsPais.h>
 #include<ClsTipoJugador.h>
 #include<ClsTipoPuesto.h>
+#include<ClsmenuMantenimientos.h>
 
 #define ENTER 13
 #define BACKSPACE 8
@@ -164,9 +165,62 @@ void login(){
     {
         system("cls");
 
+
         cout<<"----------------------------------------"<<endl;
-        cout<<"|--BIENVENIDO AL SISTEMA DEPORTES S.A--|"<<endl;
+        cout<<"|--BIENVENIDO  AL SISTEMA DE DEPORTES--|"<<endl;
         cout<<"----------------------------------------"<<endl;
+        cout<<"1. MANTENIMIENTOS"<<endl;
+        cout<<"2. REPORTES"<<endl;
+        cout<<"0. EXIT"<<endl;
+
+        cout<<"-------------------------------"<<endl;
+        cout<<"OPCIONES A ESCOGER :     [1/2/0]"<<endl;
+        cout<<"-------------------------------"<<endl;
+        cout<<"INGRESA TU OPCION : ";
+        cin>>imenuPrincipal;
+        switch (imenuPrincipal)
+        {
+        case 1:
+            {
+                ClsmenuMantenimientos menuMantenimientos;
+                menuMantenimientos.mmenuMantimientos();
+            }
+            break;
+        case 2:
+            {
+
+            }
+            break;
+        case 3:
+            {
+
+            }
+            break;
+        case 4:
+            {
+
+            }
+            break;
+        case 5:
+            {
+
+            }
+            break;
+        case 6:
+            {
+
+            }
+            break;
+        case 0:
+            {
+
+            }
+            break;
+        default:
+            cout<<"Valor ingresado no vádido, intente de nuevo";
+            getch();
+            break;
+        }
     }while(imenuPrincipal!=0);
     }
 

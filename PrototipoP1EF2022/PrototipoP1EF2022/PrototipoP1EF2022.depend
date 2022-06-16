@@ -1,8 +1,23 @@
 # depslib dependency file v1.0
-1655401169 source:c:\users\corei7\onedrive - universidad mariano gálvez\escritorio\ef\p1examenfinal\prototipop1ef2022\prototipop1ef2022\src\clsentrenador.cpp
+1655410524 source:c:\users\corei7\onedrive - universidad mariano gálvez\escritorio\ef\p1examenfinal\prototipop1ef2022\prototipop1ef2022\src\clsentrenador.cpp
 	"ClsEntrenador.h"
+	<conio.h>
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	"ClsmenuMantenimientos.h"
 
-1655401169 c:\users\corei7\onedrive - universidad mariano gálvez\escritorio\ef\p1examenfinal\prototipop1ef2022\prototipop1ef2022\include\clsentrenador.h
+1655403127 c:\users\corei7\onedrive - universidad mariano gálvez\escritorio\ef\p1examenfinal\prototipop1ef2022\prototipop1ef2022\include\clsentrenador.h
+	<conio.h>
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<cstdlib>
 
 1655401191 source:c:\users\corei7\onedrive - universidad mariano gálvez\escritorio\ef\p1examenfinal\prototipop1ef2022\prototipop1ef2022\src\clsequipo.cpp
 	"ClsEquipo.h"
@@ -24,7 +39,7 @@
 
 1655401267 c:\users\corei7\onedrive - universidad mariano gálvez\escritorio\ef\p1examenfinal\prototipop1ef2022\prototipop1ef2022\include\clstipopuesto.h
 
-1655401487 source:c:\users\corei7\onedrive - universidad mariano gálvez\escritorio\ef\p1examenfinal\prototipop1ef2022\prototipop1ef2022\main.cpp
+1655410800 source:c:\users\corei7\onedrive - universidad mariano gálvez\escritorio\ef\p1examenfinal\prototipop1ef2022\prototipop1ef2022\main.cpp
 	<conio.h>
 	<iostream>
 	<fstream>
@@ -38,4 +53,24 @@
 	<ClsPais.h>
 	<ClsTipoJugador.h>
 	<ClsTipoPuesto.h>
+	<ClsmenuMantenimientos.h>
+
+1655410697 source:c:\users\corei7\onedrive - universidad mariano gálvez\escritorio\ef\p1examenfinal\prototipop1ef2022\prototipop1ef2022\src\clsmenumantenimientos.cpp
+	"ClsmenuMantenimientos.h"
+	<conio.h>
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	<ClsEntrenador.h>
+	<ClsEquipo.h>
+	<ClsPais.h>
+	<ClsTipoJugador.h>
+	<ClsTipoPuesto.h>
+	<ClsmenuMantenimientos.h>
+
+1655408019 c:\users\corei7\onedrive - universidad mariano gálvez\escritorio\ef\p1examenfinal\prototipop1ef2022\prototipop1ef2022\include\clsmenumantenimientos.h
 

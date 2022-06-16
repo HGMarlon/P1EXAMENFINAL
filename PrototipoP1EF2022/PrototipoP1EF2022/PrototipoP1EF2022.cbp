@@ -38,12 +38,14 @@
 		<Unit filename="include/ClsPais.h" />
 		<Unit filename="include/ClsTipoJugador.h" />
 		<Unit filename="include/ClsTipoPuesto.h" />
+		<Unit filename="include/ClsmenuMantenimientos.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/ClsEntrenador.cpp" />
 		<Unit filename="src/ClsEquipo.cpp" />
 		<Unit filename="src/ClsPais.cpp" />
 		<Unit filename="src/ClsTipoJugador.cpp" />
 		<Unit filename="src/ClsTipoPuesto.cpp" />
+		<Unit filename="src/ClsmenuMantenimientos.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
