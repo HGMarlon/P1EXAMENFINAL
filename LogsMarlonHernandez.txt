@@ -1,0 +1,65 @@
+commit 545448b036768ced0943295d77457318de85f455
+Merge: eb3c726 e7f744e
+Author: HG_Marlon <97968910+HGMarlon@users.noreply.github.com>
+Date:   Thu Jun 16 15:16:53 2022 -0600
+
+    Merge pull request #4 from HGMarlon/CatalogoEquipo
+    
+    Agregando catalogo equipo
+
+commit e7f744e5363f567ecc689d5debd0a451d7956d95
+Author: HGMarlon <mhernandezg59@miumg.edu.gt>
+Date:   Thu Jun 16 15:12:43 2022 -0600
+
+    Agregando catalogo equipo
+
+commit eb3c7269fca8518ed4cac4c945cad16d4052b544
+Merge: 337bb47 5219c8f
+Author: HG_Marlon <97968910+HGMarlon@users.noreply.github.com>
+Date:   Thu Jun 16 14:23:09 2022 -0600
+
+    Merge pull request #3 from HGMarlon/MenugeneralyCRUDentrenadores
+    
+    Agregando el menu general y catalogo de entrenadores
+
+commit 5219c8f30122a7770666f348feeb45efeae1fb72
+Author: HGMarlon <mhernandezg59@miumg.edu.gt>
+Date:   Thu Jun 16 14:22:26 2022 -0600
+
+    Agregando el menu general y catalogo de entrenadores
+
+commit 337bb47a43ded287c87090fef04fd76aaed9d8b2
+Merge: d8cff18 c3eb549
+Author: HG_Marlon <97968910+HGMarlon@users.noreply.github.com>
+Date:   Thu Jun 16 11:50:35 2022 -0600
+
+    Merge pull request #2 from HGMarlon/LoginAgregado
+    
+    Agregando Login
+
+commit c3eb549868363ebac66ce45d8f40a88768851ade
+Author: HGMarlon <mhernandezg59@miumg.edu.gt>
+Date:   Thu Jun 16 11:49:46 2022 -0600
+
+    Agregando Login
+
+commit d8cff18729df52be6b41ed6da1f00bde18f2ccad
+Merge: 45342ee b45bf74
+Author: HG_Marlon <97968910+HGMarlon@users.noreply.github.com>
+Date:   Thu Jun 16 11:15:53 2022 -0600
+
+    Merge pull request #1 from HGMarlon/creacion_proyectoyclases
+    
+    Creando Proyecto y sus clases
+
+commit b45bf74eef9294e3678ace2d00aa9126755a2eb1
+Author: HGMarlon <mhernandezg59@miumg.edu.gt>
+Date:   Thu Jun 16 11:14:51 2022 -0600
+
+    Creando Proyecto y sus clases
+
+commit 45342ee2a846121849cdb75cee08e396d6809781
+Author: HG_Marlon <97968910+HGMarlon@users.noreply.github.com>
+Date:   Thu Jun 16 10:57:58 2022 -0600
+
+    Initial commit

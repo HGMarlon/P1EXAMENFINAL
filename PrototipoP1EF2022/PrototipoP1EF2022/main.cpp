@@ -170,11 +170,10 @@ void login(){
         cout<<"|--BIENVENIDO  AL SISTEMA DE DEPORTES--|"<<endl;
         cout<<"----------------------------------------"<<endl;
         cout<<"1. MANTENIMIENTOS"<<endl;
-        cout<<"2. REPORTES"<<endl;
         cout<<"0. EXIT"<<endl;
 
         cout<<"-------------------------------"<<endl;
-        cout<<"OPCIONES A ESCOGER :     [1/2/0]"<<endl;
+        cout<<"OPCIONES A ESCOGER :     [1/0]"<<endl;
         cout<<"-------------------------------"<<endl;
         cout<<"INGRESA TU OPCION : ";
         cin>>imenuPrincipal;
@@ -184,32 +183,6 @@ void login(){
             {
                 ClsmenuMantenimientos menuMantenimientos;
                 menuMantenimientos.mmenuMantimientos();
-            }
-            break;
-        case 2:
-            {
-                cout<<"USTED ESTA EN EL APARTADO REPORTES"<<endl;
-
-            }
-            break;
-        case 3:
-            {
-
-            }
-            break;
-        case 4:
-            {
-
-            }
-            break;
-        case 5:
-            {
-
-            }
-            break;
-        case 6:
-            {
-
             }
             break;
         case 0:

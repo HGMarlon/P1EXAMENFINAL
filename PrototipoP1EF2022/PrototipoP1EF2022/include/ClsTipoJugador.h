@@ -11,6 +11,8 @@ class ClsTipoJugador
     protected:
 
     private:
+         int m_iID_TipoJugador;
+        char m_sPosicion[20];
 };
 
 #endif // CLSTIPOJUGADOR_H

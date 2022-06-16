@@ -11,6 +11,9 @@ class ClsTipoPuesto
     protected:
 
     private:
+         int m_iID_Puesto;
+        char m_sNombrePuesto[20];
+        double Salario;
 };
 
 #endif // CLSTIPOPUESTO_H
