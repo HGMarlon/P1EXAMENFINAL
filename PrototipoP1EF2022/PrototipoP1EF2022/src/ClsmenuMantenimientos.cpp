@@ -57,6 +57,8 @@ ClsmenuMantenimientos::mmenuMantimientos()
             break;
         case 2:
             {
+                ClsEquipo equipo;
+                equipo.mmenuEquipo();
 
             }
             break;
