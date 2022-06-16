@@ -188,6 +188,7 @@ void login(){
             break;
         case 2:
             {
+                cout<<"USTED ESTA EN EL APARTADO REPORTES"<<endl;
 
             }
             break;
